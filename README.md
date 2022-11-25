@@ -1,4 +1,4 @@
-# my-first-vue-cli-app
+# cafe-lounge
 
 ## Project setup
 ```
